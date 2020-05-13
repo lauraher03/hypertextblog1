@@ -1,11 +1,26 @@
+
 body{
-    background-color: aqua;
-    border: solid 3px blueviolet;
-    margin: 10px;
+    
+    margin: 0px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-body >div{
-    border: 4px solid red;
-    margin-bottom: 20px;
+
+
+
+.cabecera1{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-weight: bold;
+    background-color: #25CCD8;
+    height: 80px;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 10px 13px 9px 1px rgba(0, 0, 0, 0.4);
+}
+.cabecera__titulo{
+    margin: 0px 0px 0px 0px;
 }
