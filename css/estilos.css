@@ -24,3 +24,11 @@ body{
 .cabecera__titulo{
     margin: 0px 0px 0px 0px;
 }
+.contenedor{
+    margin: 0px 150px 0px 150px ;
+    background-color: white;
+}
+.main{
+    margin-top: 50px;
+    border: 2px solid grey;
+}
