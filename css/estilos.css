@@ -1,9 +1,9 @@
 
 body{
-    
     margin: 0px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(118, 5, 199);
 }
 
 
@@ -25,12 +25,15 @@ body{
     margin: 0px 0px 0px 0px;
 }
 .contenedor{
-    margin: 0px 150px 0px 150px ;
+    margin: 0px 200px 0px 200px ;
     background-color: white;
 }
 .main{
-    margin: 0px 150px 20px 150px ;
+    margin: 0px 200px 20px 200px ;
     border: 1px solid grey;
     padding: 20px;
     text-align: left;
+}
+.main h1, h2{
+    text-align: center;
 }
