@@ -1,12 +1,10 @@
 
 body{
-    
+    color: black;    
     margin: 0px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-
-
 
 .cabecera1{
     margin: 0px;
@@ -26,11 +24,14 @@ body{
 }
 .contenedor{
     margin: 0px 150px 0px 150px ;
-    background-color: white;
 }
 .main{
     margin: 0px 150px 20px 150px ;
     border: 1px solid grey;
     padding: 20px;
-    text-align: left;
+    text-align: center;
+
+}
+.main h1,h2{
+    text-align: center;
 }
