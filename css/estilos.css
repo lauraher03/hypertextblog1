@@ -1,9 +1,13 @@
 
 body{
+<<<<<<< HEAD
     color: black;    
+=======
+>>>>>>> cabecera
     margin: 0px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(118, 5, 199);
 }
 
 .cabecera1{
@@ -23,15 +27,26 @@ body{
     margin: 0px 0px 0px 0px;
 }
 .contenedor{
+<<<<<<< HEAD
     margin: 0px 150px 0px 150px ;
+=======
+    margin: 0px 200px 0px 200px ;
+    background-color: white;
+>>>>>>> cabecera
 }
 .main{
-    margin: 0px 150px 20px 150px ;
+    margin: 0px 200px 20px 200px ;
     border: 1px solid grey;
     padding: 20px;
     text-align: center;
 
 }
+<<<<<<< HEAD
 .main h1,h2{
     text-align: center;
 }
+=======
+.main h1, h2{
+    text-align: center;
+}
+>>>>>>> cabecera
