@@ -1,22 +1,19 @@
 
 body{
-<<<<<<< HEAD
-    color: black;    
-=======
->>>>>>> cabecera
     margin: 0px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(118, 5, 199);
 }
 
-.cabecera1{
+.header{
     margin: 0px;
     padding: 0px;
     color: white;
     font-weight: bold;
     background-color: #25CCD8;
     height: 80px;
+    width: 100%;
     align-items: center;
     display: flex;
     align-items: center;
@@ -26,27 +23,17 @@ body{
 .cabecera__titulo{
     margin: 0px 0px 0px 0px;
 }
-.contenedor{
-<<<<<<< HEAD
-    margin: 0px 150px 0px 150px ;
-=======
+.container{
     margin: 0px 200px 0px 200px ;
     background-color: white;
->>>>>>> cabecera
 }
 .main{
-    margin: 0px 200px 20px 200px ;
+    margin: 50px 200px 20px 200px ;
     border: 1px solid grey;
     padding: 20px;
     text-align: center;
 
 }
-<<<<<<< HEAD
-.main h1,h2{
-    text-align: center;
-}
-=======
 .main h1, h2{
     text-align: center;
 }
->>>>>>> cabecera
