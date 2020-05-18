@@ -1,39 +1,15 @@
-
 body{
     margin: 0px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(118, 5, 199);
+ 
+    /*background-color: rgb(118, 5, 199);*/
 }
-
-.header{
-    margin: 0px;
-    padding: 0px;
-    color: white;
-    font-weight: bold;
-    background-color: #25CCD8;
-    height: 80px;
-    width: 100%;
-    align-items: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 10px 13px 9px 1px rgba(0, 0, 0, 0.4);
-}
-.cabecera__titulo{
-    margin: 0px 0px 0px 0px;
+.Main{
+    background-color: white;
+    color: black;
 }
 .container{
-    margin: 0px 200px 0px 200px ;
-    background-color: white;
+    margin: 0px 220px 0px 220px;
 }
-.main{
-    margin: 50px 200px 20px 200px ;
-    border: 1px solid grey;
-    padding: 20px;
-    text-align: center;
 
-}
-.main h1, h2{
-    text-align: center;
-}
